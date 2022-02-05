@@ -1,0 +1,384 @@
+Uri: https://newhospitalhtml.bdtask.com/
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\index.htm
+Content Type: text/html
+
+Uri: https://newhospitalhtml.bdtask.com/images/fev-icon.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\fev-icon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\css.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/css/bootstrap.min.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/css/jquery-ui.min.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/font-awesome/css/font-awesome.min.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/css/flaticon.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\css\flaticon.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/owl-carousel/owl.carousel.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/owl-carousel/owl.theme.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\owl-carousel\owl.theme.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/owl-carousel/owl.transitions.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\owl-carousel\owl.transitions.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/css/settings.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/css/layers.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\css\layers.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/css/navigation.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/css/style.css
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\css\style.css
+Content Type: text/css
+
+Uri: https://newhospitalhtml.bdtask.com/blog-details.html
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\blog-details.html
+Content Type: text/html
+
+Uri: https://newhospitalhtml.bdtask.com/images/logo.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\logo.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/slider-1.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/slider-2.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/blurflake4.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\blurflake4.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/blurflake3.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\blurflake3.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/blurflake2.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\blurflake2.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/blurflake1.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\blurflake1.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/slider-3.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/about.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\about.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/appointment.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\appointment.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/doctor_1.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\doctor_1.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/doctor_2.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\doctor_2.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/doctor_3.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\doctor_3.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/doctor_4.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\doctor_4.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/com.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\com.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/blog_1.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\blog_1.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/blog_2.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\blog_2.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/blog_3.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\blog_3.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/footer-post-1.jpeg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\footer-post-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/footer-post-2.jpeg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\footer-post-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/footer-post-3.jpeg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\footer-post-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/js/jquery.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBVtjo9eO4klWhYbHwL9jObfuke4rxSWWc
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/js/bootstrap.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/jquery.themepunch.tools.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/jquery.themepunch.revolution.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/extensions/revolution.extension.actions.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/extensions/revolution.extension.carousel.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/extensions/revolution.extension.kenburn.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/extensions/revolution.extension.layeranimation.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/extensions/revolution.extension.migration.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/extensions/revolution.extension.navigation.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/extensions/revolution.extension.parallax.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/js/extensions/revolution.extension.slideanims.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/owl-carousel/owl.carousel.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/js/jquery.easing.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/js/jquery-ui.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/js/custom.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/glyphicons-halflings-regular.eot
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/glyphicons-halflings-regular.eot?
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/glyphicons-halflings-regular.woff2
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/glyphicons-halflings-regular.woff
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/glyphicons-halflings-regular.svg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://newhospitalhtml.bdtask.com/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newhospitalhtml.bdtask.com/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newhospitalhtml.bdtask.com/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://newhospitalhtml.bdtask.com/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://newhospitalhtml.bdtask.com/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://newhospitalhtml.bdtask.com/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/Flaticon.eot
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/Flaticon.eot?
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/Flaticon.woff
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/Flaticon.ttf
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://newhospitalhtml.bdtask.com/fonts/Flaticon.svg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://newhospitalhtml.bdtask.com/owl-carousel/grabbing.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\owl-carousel\grabbing.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/owl-carousel/AjaxLoader.gif
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\owl-carousel\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/fonts/revicons/revicons.eot?5510888
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/fonts/revicons/revicons.woff?5510888
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/fonts/revicons/revicons.svg?5510888
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/css/openhand.cur
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\css\openhand.cur
+Content Type: 
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/css/closedhand.cur
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\css\closedhand.cur
+Content Type: 
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/assets/gridtile.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/assets/gridtile_white.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/assets/gridtile_3x3.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/assets/gridtile_3x3_white.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/assets/coloredbg.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/revolution/assets/loader.gif
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://newhospitalhtml.bdtask.com/images/loader.gif
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\loader.gif
+Content Type: image/gif
+
+Uri: https://newhospitalhtml.bdtask.com/images/appointment-bg.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\appointment-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/ui-icons.png
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\ui-icons.png
+Content Type: image/png
+
+Uri: https://newhospitalhtml.bdtask.com/images/testi-bg.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\testi-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/blog-detals-bg.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\blog-detals-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/index.html
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\index.html
+Content Type: text/html
+
+Uri: https://newhospitalhtml.bdtask.com/images/blog-details.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\blog-details.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/comment-1.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\comment-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newhospitalhtml.bdtask.com/images/comment-2.jpg
+File Name: D:\Website Template\newhospitalhtml.bdtask.com\images\comment-2.jpg
+Content Type: image/jpeg
+
